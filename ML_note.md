@@ -4,4 +4,4 @@
 
 ## 优化器总结
 ### sgd
-Θ=Θ−α⋅▽Θ​J(Θ)
+$\Theta =\Theta -\alpha \cdot \triangledown _{\Theta }J(\Theta )$

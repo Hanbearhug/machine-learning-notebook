@@ -5,4 +5,4 @@
 ## 优化器总结
 ### sgd
 
-$\Theta =\Theta -\alpha \cdot \triangledown _{\Theta }J(\Theta )$
+$$\Theta =\Theta -\alpha \cdot \triangledown _{\Theta }J(\Theta )$$
